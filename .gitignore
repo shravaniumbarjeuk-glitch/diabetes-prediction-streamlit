@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+diabetes.csv
+.DS_Store
+Thumbs.db
